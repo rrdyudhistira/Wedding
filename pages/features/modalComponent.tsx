@@ -31,7 +31,7 @@ export default function ModalComponent() {
 					{/*header*/}
 					<div className="flex items-center justify-center rounded-t contrast-100">
 						<h3 className="text-6xl font-Birthstone text-black">
-							Annisa & Rivaldi
+							Diana & Trisnandi
 						</h3>
 					</div>
 					<div className="flex items-center justify-center pt-4 rounded-t contrast-100">

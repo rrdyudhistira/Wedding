@@ -58,7 +58,7 @@ function InvitationPage() {
 
                 <div className="flex-shrink-0 text-center">
                     <h1 className="font-Pacifico text-xl md:text-3xl pb-8">
-                    Annisa Trania Rimbawati, S.Si
+                    Diana Apriliyani 
                     </h1>
                 </div>
                 <div className="flex-shrink-0 text-center">
@@ -68,7 +68,7 @@ function InvitationPage() {
                 </div>
                 <div className="flex-shrink-0 text-center">
                     <h1 className="font-Pacifico text-xs md:text-xl">
-                    Bapak Harsusanto, S.E dan Ibu Ida Widyawati, S.Pt
+                    Bapak Sayadi (Alm) dan Ibu Anah Fitriah
                     </h1>
                 </div>
             </div>
@@ -128,7 +128,7 @@ function InvitationPage() {
                 {/* Rivaldi's Text */}
                 <div className="flex-shrink-0 text-center">
                     <h1 className="font-Pacifico text-xl md:text-3xl pb-8">
-                    Muhammad Rivaldi Irawan, S.Kom
+                    Trisnandi Esa Saputra
                     </h1>
                 </div>
                 <div className="flex-shrink-0 text-center">
@@ -138,7 +138,7 @@ function InvitationPage() {
                 </div>
                 <div className="flex-shrink-0 text-center">
                     <h1 className="font-Pacifico text-xs md:text-xl">
-                    Bapak Yudhie Irawan, S.E dan Ibu Rini Hartini, S,S
+                    Bapak Sertu Suwardi dan Ibu Kartini
                     </h1>
                 </div>
             </div>

@@ -8,17 +8,17 @@ function HomePage() {
   return (
     <section id="home">
         <Carousel />
-        {/* Annisa dan Rivaldi Text */}
+        {/* Diana & Trys Text */}
         <div className="flex justify-center text-center md:mx-20 md:pt-20 pt-10">
             <div className="flex-shrink-0 text-center">
                 <h1 className="font-Birthstone text-6xl md:text-8xl md:pb-2">
-                    Annisa
+                    Diana Apriliyani
                 </h1>
                 <h1 className="font-Birthstone text-6xl md:text-8xl md:pb-2">
                     &
                 </h1>
                 <h1 className="font-Birthstone text-6xl md:text-8xl md:pb-2">
-                    Rivaldi
+                    Trisnandi Esa Saputra
                 </h1>
             </div>
         </div>
@@ -27,7 +27,7 @@ function HomePage() {
         <div className="text-right pt-2 pr-5 md:mx-20 md:pt-10">
             <div className="flex-shrink-0 text-right">
                 <h1 className="font-Inter font-semibold text-sm md:text-3xl pb-2">
-                    11.06.2022
+                    29.10.2023
                 </h1>
             </div>
         </div>

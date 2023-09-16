@@ -16,7 +16,7 @@ const Index: React.FC = () => {
   return (
     <>
         <div>
-            <audio src="song2.mp3" ref={audioEl}></audio>
+            <audio src="song3.mp3" ref={audioEl}></audio>
             <div className="fixed bottom-4 right-4">
                 <button className="flex" onClick={ () => setIsPlaying(!isPlaying) }>
                     <Icon className="h-16 w-16" icon={ isPlaying ? "bi:pause-circle-fill" : "bi:play-circle-fill"} color="#c38e70" />

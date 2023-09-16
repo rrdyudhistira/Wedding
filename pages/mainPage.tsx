@@ -4,7 +4,7 @@ import InvitationPage from './invitationPage'
 import InformationPage from './informationPage'
 import GalleryPage from './galleryPage'
 import PrayPage from './prayPage'
-import ProkesPage from './prokesPage'
+// import ProkesPage from './prokesPage'
 import InstagramPage from './instagramPage'
 import MusicPlayer from '../components/music-player/index'
 import Aos from 'aos';
@@ -24,7 +24,7 @@ export default function Home() {
             <InformationPage />
             <GalleryPage />
             <PrayPage />
-            <ProkesPage />
+            {/* <ProkesPage /> */}
             <InstagramPage />
       </div>
 			<MusicPlayer />

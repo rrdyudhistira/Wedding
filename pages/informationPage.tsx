@@ -49,7 +49,7 @@ function InformationPage() {
       <div className="flex justify-center text-center px-10">
         <div className="flex-shrink-0 text-center pb-10">
           <h1 className="font-Pacifico font-semibold text-xl md:text-4xl md:font-semibold">
-            Sabtu, 11 Juni 2022
+            Minggu, 29 Oktober 2023
           </h1>
         </div>
       </div>
@@ -59,13 +59,13 @@ function InformationPage() {
         <div className="bg-choco px-4 py-4 md:px-8 md:py-6 text-white rounded-md text-xs md:text-lg">
           <div className="justify-center text-center space-y-2">
             <p className="font-Pacifico">Akad Nikah</p>
-            <p className="font-Pacifico">08.00 WIB - 09.30 WIB</p>
+            <p className="font-Pacifico">08.00 - 09.00 WIB</p>
           </div>
         </div>
         <div className="bg-choco px-4 py-4 md:px-8 md:py-6 text-white rounded-md text-xs md:text-lg">
           <div className="justify-center text-center space-y-2">
             <p className="font-Pacifico">Resepsi</p>
-            <p className="font-Pacifico">11.00 WIB - 13.00 WIB</p>
+            <p className="font-Pacifico">09.00 WIB - 17.00 WIB</p>
           </div>
         </div>
       </div>
@@ -85,7 +85,7 @@ function InformationPage() {
           <div className="flex justify-center text-center px-10 py-5 md:px-96">
             <div className="flex justify-center px-auto py-auto">
               <h1 className="font-Pacifico text-xl md:text-4xl">
-                Ballroom lt.6 Swiss-Belhotel Bogor, Jalan Salak, RT.03/RW.04, Babakan, Bogor Kota, Jawa Barat.
+                Blok Wuni I RT 001/004 Desa Dawuan Kecamatan Tengahtani Kab. Cirebon
               </h1>
             </div>
           </div>
